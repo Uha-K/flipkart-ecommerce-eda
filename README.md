@@ -71,7 +71,7 @@ flipkart-ecommerce-eda/
 ├── data/
 │   └── README.md
 │
-├── images/
+├── visualizations/
 │
 ├── requirements.txt
 ├── .gitignore
